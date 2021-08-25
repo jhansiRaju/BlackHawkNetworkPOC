@@ -1,0 +1,17 @@
+package com.pojo.classes;
+
+public class ActivationMailer {
+	 private boolean isSend;
+
+
+	 // Getter Methods 
+
+	 public boolean getIsSend() {
+	  return isSend;
+	 }
+
+	 // Setter Methods 
+
+	 public void setIsSend(boolean isSend) {
+	  this.isSend = isSend;
+}

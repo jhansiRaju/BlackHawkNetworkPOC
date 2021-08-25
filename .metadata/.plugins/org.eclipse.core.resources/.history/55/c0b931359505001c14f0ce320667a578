@@ -1,0 +1,17 @@
+package com.pojo.classes;
+
+import java.util.ArrayList;
+
+public class Supplementals {
+	private boolean pinMailerRequired;
+	 private boolean pinMailerDelay;
+	 private String shippingMethodId;
+	 private String shippingMethodName;
+	 ShippingAddress ShippingAddressObject;
+	 ReturnAddress ReturnAddressObject;
+	 RegisterAddress RegisterAddressObject;
+	 BomInfo BomInfoObject;
+	 PackagingInfo PackagingInfoObject;
+	 IvrDetail IvrDetailObject;
+	 ArrayList < Object > additionalInfo = new ArrayList < Object > ();
+}

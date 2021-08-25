@@ -1,0 +1,35 @@
+package com.pojo.classes;
+
+public class ItemFragment {
+	private String _id;
+	 private String _class;
+	 private String printerId;
+	 private String printerName;
+	 private String fulfillmentOrderId;
+	 private String bhnLineItemId;
+	 private String bundleId;
+	 ProductInfo ProductInfoObject;
+	 private boolean activateOnShipment;
+	 ActivationMailer ActivationMailerObject;
+	 Supplementals SupplementalsObject;
+	 private String shippingAccountNumber;
+	 private String cardType;
+	 private String orderType;
+	 private boolean isBulk;
+	 private float cardQuantity;
+	 private String cardDenomination;
+	 private String lineItemStatus;
+	 private String itemSubTotal;
+	 private float packagingSequenceNumber;
+	 private String cardImageUrlFront;
+	 private String printType;
+	 private String carrierImageUrlFront;
+	 private String carrierImageUrlBack;
+	 private String packingSlipImageUrlFront;
+	 private String packingSlipImageUrlBack;
+	 private String activationCode;
+	 private boolean expediteFulfillment;
+	 private String createdDate;
+	 private String lastModifiedDate;
+	 private float version;
+}

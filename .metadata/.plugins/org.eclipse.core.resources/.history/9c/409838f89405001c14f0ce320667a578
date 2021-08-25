@@ -1,0 +1,15 @@
+package com.pojo.classes;
+
+public class ProductInfo {
+	private boolean pinMailerRequired;
+	 private boolean pinMailerDelay;
+	 private String shippingMethodId;
+	 private String shippingMethodName;
+	 ShippingAddress ShippingAddressObject;
+	 ReturnAddress ReturnAddressObject;
+	 RegisterAddress RegisterAddressObject;
+	 BomInfo BomInfoObject;
+	 PackagingInfo PackagingInfoObject;
+	 IvrDetail IvrDetailObject;
+	 ArrayList < Object > additionalInfo = new ArrayList < Object > ();
+}

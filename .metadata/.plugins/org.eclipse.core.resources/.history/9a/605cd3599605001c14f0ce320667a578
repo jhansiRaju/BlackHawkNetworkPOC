@@ -1,0 +1,6 @@
+package com.pojo.classes;
+
+public class PackagingInfo {
+	 ArrayList < Object > inserts = new ArrayList < Object > ();
+
+}

@@ -1,0 +1,24 @@
+{
+    "pinMailerRequired" : false,
+    "pinMailerDelay" : false,
+    "shippingMethodId" : "USPS",
+    "shippingMethodName" : "USPS First Class Testing",
+    "shippingAddress" : {
+      "attnTo" : "",
+      "firstName" : "Samarth",
+      "middleName" : "",
+      "lastName" : "Mehrotra",
+      "company" : "BHN",
+      "addressOne" : "12-B, Rabindrapalli, Faizabad Road",
+      "addressTwo" : "",
+      "addressThree" : "",
+      "state" : "Uttar Pradesh",
+      "zipCode" : "226016",
+      "city" : "Lucknow",
+      "countryCode" : "IND",
+      "emailAddress" : "",
+      "phoneNumber" : "0968 602 7982",
+      "districtOrCounty" : "Uttar Pradesh",
+      "poBoxFlag" : false,
+      "shippingRecipientId" : ""
+    }
