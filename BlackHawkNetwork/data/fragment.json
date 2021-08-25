@@ -1,0 +1,117 @@
+{
+  "_id" : "TTA402Y5G9KGPDZCAXTY9PQTM8",
+  "_class" : "com.bhn.fragment.ofr.OFRLineItemFragment",
+  "printerId" : "NGC",
+  "printerName" : "NGC",
+  "fulfillmentOrderId" : "1WXSF68KY7XL11X8FNKXB6BNDC",
+  "bhnLineItemId" : "59432933",
+  "bundleId" : "10870713",
+  "productInfo" : {
+    "iid" : "74740",
+    "upc" : "07675018966",
+    "name" : "TGI Fridays Gift Card",
+    "quantity" : 1,
+    "isClosed" : true,
+    "isPreprinted" : true
+  },
+  "activateOnShipment" : true,
+  "activationMailer" : {
+    "isSend" : false
+  },
+  "supplementals" : {
+    "pinMailerRequired" : false,
+    "pinMailerDelay" : false,
+    "shippingMethodId" : "USPS",
+    "shippingMethodName" : "USPS First Class Testing",
+    "shippingAddress" : {
+      "attnTo" : "",
+      "firstName" : "Samarth",
+      "middleName" : "",
+      "lastName" : "Mehrotra",
+      "company" : "BHN",
+      "addressOne" : "12-B, Rabindrapalli, Faizabad Road",
+      "addressTwo" : "",
+      "addressThree" : "",
+      "state" : "Uttar Pradesh",
+      "zipCode" : "226016",
+      "city" : "Lucknow",
+      "countryCode" : "IND",
+      "emailAddress" : "",
+      "phoneNumber" : "0968 602 7982",
+      "districtOrCounty" : "Uttar Pradesh",
+      "poBoxFlag" : false,
+      "shippingRecipientId" : ""
+    },
+    "returnAddress" : {
+      "firstName" : "Samarth",
+      "lastName" : "Mehrotra",
+      "company" : "BHN",
+      "addressOne" : "12-B, Rabindrapalli, Faizabad Road",
+      "state" : "UP",
+      "zipCode" : "226016",
+      "city" : "Lucknow",
+      "countryCode" : "USA",
+      "emailAddress" : "samarth.mehrotra@bhnetwork.com",
+      "phoneNumber" : "0968 602 7982",
+      "districtOrCounty" : "Uttar Pradesh",
+      "poBoxFlag" : false
+    },
+    "registerAddress" : {
+      "attnTo" : "",
+      "firstName" : "Samarth",
+      "lastName" : "Mehrotra",
+      "company" : "BHN",
+      "addressOne" : "12-B, Rabindrapalli, Faizabad Road",
+      "addressTwo" : "",
+      "addressThree" : "",
+      "state" : "Uttar Pradesh",
+      "zipCode" : "226016",
+      "city" : "Lucknow",
+      "countryCode" : "IND",
+      "emailAddress" : "",
+      "phoneNumber" : "0968 602 7982",
+      "districtOrCounty" : "Uttar Pradesh",
+      "poBoxFlag" : false,
+      "registerRecipientId" : ""
+    },
+    "bomInfo" : {
+      "bomId" : "BOM000011"
+    },
+    "packagingInfo" : {
+      "inserts" : [ {
+        "to" : "",
+        "from" : "",
+        "msg" : "",
+        "csPhoneNumber" : "18774262551",
+        "webUrl" : "http://www.GiftCardMall.com"
+      } ]
+    },
+    "ivrDetail" : {
+      "ivrNumber" : "18663577391",
+      "ivrWebsite" : "https://www.giftcardmall.com/Activate"
+    },
+    "additionalInfo" : [ null, null,null,null,null,null,null,null,null,null ]
+  },
+  "shippingAccountNumber" : "DPUSPSAcctNo1234",
+  "cardType" : "CLOSED_LOOP",
+  "orderType" : "CUSTOMER",
+  "isBulk" : false,
+  "cardQuantity" : 1,
+  "cardDenomination" : "50.0",
+  "lineItemStatus" : "PROCESSED",
+  "itemSubTotal" : "50.0",
+  "packagingSequenceNumber" : 5,
+  "cardImageUrlFront" : "",
+  "printType" : "PRE_PRINTED",
+  "carrierImageUrlFront" : "",
+  "carrierImageUrlBack" : "",
+  "packingSlipImageUrlFront" : "",
+  "packingSlipImageUrlBack" : "",
+  "activationCode" : "1014",
+  "expediteFulfillment" : true,
+  "createdDate" : "8/11/2021 2:32:45 AM",
+  "lastModifiedDate" : "8/11/2021 2:32:45 AM",
+  "version" : 1
+}
+
+

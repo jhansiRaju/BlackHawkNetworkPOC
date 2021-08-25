@@ -1,0 +1,5 @@
+{
+   "pinMailerRequired" : false,
+    "pinMailerDelay" : false,
+    "shippingMethodId" : "USPS"
+ }
